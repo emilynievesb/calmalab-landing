@@ -1,5 +1,5 @@
+'use client';
 import { FaQuestionCircle, FaShieldAlt, FaEnvelope, FaHashtag } from 'react-icons/fa';
-
 export default function SupportSection() {
     return (
         <section id="soporte" className="bg-background py-16 px-6">
@@ -10,7 +10,7 @@ export default function SupportSection() {
                         src="https://cdn.gamma.app/cbce6svg9w6fwnn/generated-images/O1NgF1s6ty3Zn7n3nfymG.jpg" // Cambia esta ruta a la imagen que prefieras
                         alt="Imagen de la aplicación en un teléfono"
                         layout="fill"
-                        objectFit="cover"
+                        // objectFit="cover"
                         className="rounded-lg"
                     />
                 </div>

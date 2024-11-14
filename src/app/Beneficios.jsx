@@ -7,8 +7,8 @@ export default function Beneficios() {
                     src="https://i.ibb.co/BcbpFGZ/ze7-Lf-XH-ww-VB3-D7-XA-bja-1.jpg" // Cambia esta ruta a la imagen que prefieras
                     alt="Imagen de fondo"
                     layout="fill"
-                    objectFit="cover"
-                    objectPosition="center center"
+                    // objectFit="cover"
+                    // objectPosition="center center"
                     className="opacity-50 w-full object-cover"
                     style={{ objectPosition: '50% -100%;' }} // Transparencia de la imagen de fondo
                 />

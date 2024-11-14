@@ -11,7 +11,7 @@ export default function HowItWorks() {
                         src="https://i.ibb.co/yXxc8Xn/imagen-2024-11-13-134936692-removebg-preview.png"
                         alt="Imagen de la aplicación en un teléfono"
                         layout="fill"
-                        objectFit="cover"
+                        // objectFit="cover"
                         className="rounded-lg"
                     />
                 </div>

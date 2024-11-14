@@ -17,7 +17,7 @@ export default function Header() {
                         src="https://cdn.gamma.app/cbce6svg9w6fwnn/generated-images/dbD9fCcm2cpp1TFgpXY3h.jpg"
                         alt="Imagen de oficina"
                         layout="fill"
-                        objectFit="cover"
+                        // objectFit="cover"
                         className="rounded-lg"
                     />
                 </div>
